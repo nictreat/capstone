@@ -1,0 +1,97 @@
+/*
+* {
+    font-size: 100%;
+    margin: 0;
+    line-height: 1;
+    border: 1px solid red; */
+
+body {
+     /* type comment here */
+    background-color:beige;
+}
+
+li {
+    color:#782324;
+    font-size: 18px;
+}   
+
+/* Comment in CSS - Shortcut: CTRL + / */
+body {
+    color:rgba(140, 10, 45, 0.563);
+}
+
+header {
+    text-align: center;
+}
+
+header p {
+    font-size:20px;
+    font-weight: bold;
+}
+
+/*working banner*/
+.silk-bg {
+    background-image: image("silkbannerr.png");
+    margin: 10px;
+    width: 10px;
+    height: 10px;
+   /* border: 1px solid white; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -100px -100px;
+}
+
+.silk.image {
+    width: 20px;
+    height: 30px;
+}
+
+p {
+    color: darkslategrey;
+    color:#782324;
+}
+
+ul {
+  line-height: 2;
+}
+
+h1 {
+    font-family: 'Waterfall', Georgia, Monaco;
+    font-size: 80px;
+  
+}
+
+footer p {
+    font-size: 18px;
+}
+
+h1,
+h2,
+p,
+    div.c {
+  text-align: center;
+}
+
+h3 {
+    font-family: 'Waterfall', Georgia, Monaco;
+    font-size: 40px;
+}
+
+h4 {
+    font-style: italic;
+}
+
+li:hover, a:hover {
+  background-color: rgba(200, 132, 146, 0.908);
+}
+
+#center {
+    text-align: center;
+}
+
+p.solid {
+    border-style: solid;
+    border-width: thick;
+    padding: 10px;
+    margin: 0;
+}
